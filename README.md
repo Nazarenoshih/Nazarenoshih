@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Nazareno Shih.
-I'm here to learn more about HTML, JavaScript and Github.
-"<pt-BR>"
+I'm Nazareno Shih. 
+I'm here to learn more about HTML, JavaScript and Github.<br>
+"pt-BR"
 
 https://nazarenoshih.github.io/myPractPages/index.html
 
