@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm Nazareno Shih.
+I'm here to learn more about HTML, JavaScript and Github.
+"<pt-BR>"
+
+https://nazarenoshih.github.io/myPractPages/index.html
 
 <!--
 **Nazarenoshih/Nazarenoshih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
